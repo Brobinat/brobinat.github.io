@@ -1,8 +1,9 @@
 ---
+title: Sitemap excluded 1
+date: 2018-03-30 10:39:26 Z
+categories:
+- jekyll
 layout: post
-title:  Sitemap excluded 1
-date:   2018-03-30 12:39:26 +0200
-category: jekyll 
 sitemap: false
 ---
 
